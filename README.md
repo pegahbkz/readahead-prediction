@@ -12,10 +12,3 @@ This project focuses on predictive modeling to enhance data prefetching in file 
 ## Features
 - Implemented predictive algorithms for read-ahead optimization.
 - Enhanced file system performance through efficient data prefetching.
-
-## How to Run
-1. Clone the repository and set up the PintOS environment.
-2. Compile and run the optimized file system:
-   ```bash
-   make
-   pintos run <test-program>
